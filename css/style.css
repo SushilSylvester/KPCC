@@ -790,6 +790,7 @@ img{
 	position:relative;
 	padding:30px 0px 0px;
 	float:right;
+	margin-left: -50px;
 }
 
 .main-header .nav-outer .link-box .theme-btn{
@@ -858,7 +859,7 @@ img{
 	font-size:15px;
 	line-height:30px;
 	font-weight:600;
-	text-transform:capitalize;
+	/*text-transform:capitalize;*/
 	color:#25283a;
 	padding:3px 0px;
 	opacity:1;
