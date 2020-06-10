@@ -3821,6 +3821,21 @@ img{
 	position:relative;
 	padding-top:20px;	
 }
+.main-footer .nav-box .inner .text {
+	
+	float: left;
+
+	margin-left: 550px;
+	margin-top: -5px;
+	
+	margin-bottom: 0px !important;
+
+}
+
+.main-footer .nav-box .inner .text p{
+	font-size:40px;
+	margin-bottom: 0px !important;
+}
 
 .main-footer .nav-box .inner{
 	position:relative;
@@ -3831,7 +3846,7 @@ img{
 
 .main-footer .nav-box .inner .footer-nav{
 	float:left;
-	padding:10px 20px;
+	padding:15px 20px;
 }
 
 .main-footer .nav-box .inner .footer-nav li{
@@ -5547,7 +5562,7 @@ img{
 .contact-section .form-column{
 	position:relative;
 	float:left;
-	width:50%;
+	width:100%;
 	padding:110px 0px;
 	text-align:center;
 }
