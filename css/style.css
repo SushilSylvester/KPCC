@@ -647,7 +647,7 @@ img{
 
 .main-header .header-top{
 	position: relative;
-	background-color:#25283a;
+	background-color:#0b9444;
 	color:#ffffff;
 }
 
@@ -737,7 +737,7 @@ img{
 .main-header .header-top .social-links li{
 	position:relative;
 	float:left;
-	color:#aaabaf;
+	color:white;
 	line-height:24px;
 	margin-right:25px;
 }

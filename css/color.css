@@ -9,11 +9,11 @@ a{
 }
 
 .btn-style-one .btn-title{
-	background-color: #3cc88f;
+	background-color: #17507b;
 }
 
 .btn-style-one .btn-title:before{
-	background-color: #25283a;	
+	background-color: #f68406;	
 }
 
 .btn-style-three .btn-title{
@@ -66,11 +66,11 @@ a{
 }
 
 .main-header .header-upper .logo-box .logo{
-	background:#3cc88f;
+	background:#17507b;
 }
 
 .main-header .header-upper .logo-box .logo:before{
-    background: #3cc88f;
+    background: #17507b;
 }
 
 .main-header .nav-outer .link-box .cart-link a:hover{
