@@ -511,7 +511,7 @@ figure{
 	background-color:rgba(0,0,0,0); 
 	background-position:center center; 
 	background-repeat:no-repeat; 
-	background-image:url(../images/icons/preloader.svg);
+	background-image:url(../images/favicon1.png);
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
 	-ms-transition: all 200ms ease;
@@ -1817,7 +1817,7 @@ img{
 	transform:scale(1);
 }
 
-/*.banner-carousel .active .slide-item .image-layer{
+.banner-carousel .active .slide-item .image-layer{
 	-webkit-transform:scale(1.15);
 	-ms-transform:scale(1.15);
 	transform:scale(1.15);
@@ -1825,7 +1825,7 @@ img{
 	-moz-transition: all 7000ms linear;
 	-ms-transition: all 7000ms linear;
 	-o-transition: all 7000ms linear;
-	transition: all 7000ms linear;*/
+	transition: all 7000ms linear;
 }
 
 .banner-carousel .slide-item:before{
