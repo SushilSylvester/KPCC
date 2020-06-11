@@ -842,7 +842,7 @@ img{
 .main-header .header-upper .logo img{
 	position: relative;
 	display: inline-block;
-	max-width: 100%;
+	max-width: 60%;
 	height: auto;
 	z-index:1;
 }
