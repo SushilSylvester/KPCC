@@ -119,7 +119,7 @@
 		padding-top: 0;
 	}
 
-	.fluid-section .image-column,
+	.fluid-section-column,
 	.fluid-section .text-column{
 		position: relative;
 		width: 100%;
@@ -129,7 +129,8 @@
 		display: block;
 	}
 
-	.fluid-section .image-column .image-layer{
+	.fluid-section .image-column 
+	{
 		display: none;
 	}
 
