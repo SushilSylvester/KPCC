@@ -50,12 +50,7 @@ font-family: 'Open Sans', sans-serif;
 
  ***/
 
-.space{
-	width: 30px;
-	height: 300px;
-display: block;
-margin: auto;
-}
+
  
 body {
 	
@@ -1743,19 +1738,17 @@ img{
 
 .banner-carousel{
 	position: relative;
-
 }
 
 .banner-carousel .slide-item{
 	position: relative;
 	display: block;
-	background-color: #000;
+	background-color: #000000;
 	background-repeat: no-repeat;
 	background-position: center;
-	background-size: contain;
-	padding: 180px 0px 300px;
+	background-size: cover;
+	padding: 180px 0px 210px;
 	overflow:hidden;
-	
 }
 
 .style-two .banner-carousel .slide-item{
@@ -1771,8 +1764,7 @@ img{
 	left:0;
 	top:0;
 	width:45%;
-	height:100%;
-
+	height:100%;	
 }
 
 .banner-carousel .slide-item .curved-layer:before{
@@ -1780,8 +1772,8 @@ img{
 	position:absolute;
 	right:0;
 	top:-80%;
-	width:100%;
-	height:100%;
+	width:150%;
+	height:200%;
 	opacity:0.85;
 	-webkit-transform-origin:left ;
 	-ms-transform-origin:left;
@@ -1808,10 +1800,10 @@ img{
 	top:0;
 	width:100%;
 	height:100%;
-	/*opacity:0.50;*/
+	opacity:0.50;
 	background-repeat: no-repeat;
 	background-position: center;
-	background-size: contain;
+	background-size: cover;
 	-webkit-transform:scale(1);
 	-ms-transform:scale(1);
 	transform:scale(1);
@@ -1828,17 +1820,17 @@ img{
 	transition: all 7000ms linear;
 }
 
-.banner-carousel .slide-item:before{
+/*.banner-carousel .slide-item:before{
 	position: absolute;
 	left: 0;
 	top: 0;
-	height: 200%;
+	height: 100%;
 	width: 100%;
 	background-color: #000000;
 	opacity: .50;
 	content: "";
 	z-index:1;
-}
+}*/
 
 .banner-carousel .content-box{
 	position: relative;
@@ -1974,7 +1966,6 @@ img{
 	right: 0;
 	margin: 0 auto;
 	width:100%;
-	height: 1000px;
 }
 
 .banner-section .owl-theme .owl-nav .owl-prev{
@@ -2104,7 +2095,6 @@ img{
 	background: #ffffff;
 	border-radius: 50%;
 }
-
 
 /*** 
 
