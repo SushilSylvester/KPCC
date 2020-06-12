@@ -26,6 +26,9 @@
 }
 
 @media only screen and (max-width: 1139px){
+
+	
+
 	.main-header .header-top .top-left{
 		display: none;
 	}
@@ -38,6 +41,7 @@
 	.sticky-header{
 		display: none !important;
 	}
+
 
 	.nav-outer .mobile-nav-toggler{
 		display: block;
@@ -758,6 +762,7 @@
 }
 
 @media only screen and (max-width: 599px){
+
 	.main-header .nav-outer .link-box .donate-link{
 		display: none;
 	}
